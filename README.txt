@@ -1,12 +1,18 @@
-- NextJS latest version
-- Using shadcn latest version
+Link : https://www.youtube.com/watch?v=xs8mWnbMcmc
+
+Teach Stack :
+- NextJS latest version : the main program
+- Shadcn latest version : better UI component like button etc.
+- Neon Database         : the Database with postgreSQL
+- Prisma                : for the Object-Relational Mapper to simplifies database interactions
+- tRPC                  : to linkedin/connect client and server
 
 
-Timestamps
+Timestamps  :
 0:00 Intro & Demo - done
-7:06 01 Setup - running 18:50
-23:51 02 Database
-49:08 03 tRPC Setup
+7:06 01 Setup - done
+23:51 02 Database - done
+49:08 03 tRPC Setup - running
 01:25:33 04 Background Jobs
 01:53:41 05 AI Jobs
 02:19:46 06 E2B Sandboxes
